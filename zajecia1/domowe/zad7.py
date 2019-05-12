@@ -9,6 +9,6 @@ print('To jest program do konwersji walut. Proszę podaj jaką kwotę zabierasz 
 kwotaPLN = float(input())
 euro = 4.29
 dolar = 3.82
-kwotaeuro = int(kwotaPLN * euro)
-kwotadolar = int(kwotaPLN * dolar)
+kwotaeuro = int(kwotaPLN / euro)
+kwotadolar = int(kwotaPLN / dolar)
 print('Na wakacje zabierzesz ', kwotaeuro, 'euro oraz ', kwotadolar, 'dolarów.')
