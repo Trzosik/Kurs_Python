@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5344da90-e27f-4e53-8358-a310de402d82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_slowniki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/domowe/zad8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia1/sec2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia2/zad1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia2/zad2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia3/zad8.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_tuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_slowniki.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_listy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-730" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/class1.py" />
+        <option value="$PROJECT_DIR$/triangle.py" />
+        <option value="$PROJECT_DIR$/nowy2.py" />
+        <option value="$PROJECT_DIR$/skill.py" />
+        <option value="$PROJECT_DIR$/weeks.py" />
+        <option value="$PROJECT_DIR$/bmi.py" />
+        <option value="$PROJECT_DIR$/BMI2.py" />
+        <option value="$PROJECT_DIR$/zadanie1.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad1.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad2.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad3.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad4.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad5.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad6.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad7.py" />
+        <option value="$PROJECT_DIR$/zajecia1/domowe/zad8.py" />
+        <option value="$PROJECT_DIR$/zajecia2/zad1.py" />
+        <option value="$PROJECT_DIR$/zajecia2/zad2.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad2.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad3.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad4.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad5.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad6.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad7.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad8.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zad1.py" />
+        <option value="$PROJECT_DIR$/zajecia2/zad3.py" />
+        <option value="$PROJECT_DIR$/zajecia2/zad4.py" />
+        <option value="$PROJECT_DIR$/zajecia2/zad5.py" />
+        <option value="$PROJECT_DIR$/zajecia2/zadania_zaj2/zad6.py" />
+        <option value="$PROJECT_DIR$/zajecia3/sec4/zad3.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zadania_zaj3/zadsec3.py" />
+        <option value="$PROJECT_DIR$/zajecia3/zadania_zaj3/zadsec3and4.py" />
+        <option value="$PROJECT_DIR$/zajecia3/hot_cold.py" />
+        <option value="$PROJECT_DIR$/zajecia3/rock_paper_scissors.py" />
+        <option value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad1.py" />
+        <option value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zadX.py" />
+        <option value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad1and2.py" />
+        <option value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_tuple.py" />
+        <option value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_slowniki.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1064" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kurs_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kurs_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kurs_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia4" type="462c0819:PsiDirectoryNode" />
+              <item name="zadania_zaj4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zajecia2/zad1.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.zad_slowniki">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hot_cold" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia3/hot_cold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia4/zadania_zaj4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad1and2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia4/zadania_zaj4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad1and2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad4" type="PythonConfigurationType" factoryName="Python">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia2/zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad_slowniki" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia4/zadania_zaj4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_slowniki.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia4/zadania_zaj4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.zad4" />
+      <item itemvalue="Python.hot_cold" />
+      <item itemvalue="Python.zad1 (1)" />
+      <item itemvalue="Python.zad1and2" />
+      <item itemvalue="Python.zad_tuple" />
+      <item itemvalue="Python.zad_slowniki" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zad_slowniki" />
+        <item itemvalue="Python.zad_tuple" />
+        <item itemvalue="Python.zad1and2" />
+        <item itemvalue="Python.zad1 (1)" />
+        <item itemvalue="Python.hot_cold" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5344da90-e27f-4e53-8358-a310de402d82" name="Default Changelist" comment="" />
+      <created>1557157351049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557157351049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20143884" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997233" weight="0.33740288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002767" side_tool="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zadanie1.py" />
+    <entry file="file://$PROJECT_DIR$/triangle.py" />
+    <entry file="file://$PROJECT_DIR$/skill.py" />
+    <entry file="file://$PROJECT_DIR$/class1.py" />
+    <entry file="file://$PROJECT_DIR$/weeks.py" />
+    <entry file="file://$PROJECT_DIR$/bmi.py" />
+    <entry file="file://$PROJECT_DIR$/BMI2.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad5.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad6.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad7.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad8.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/sec2/sec2/zad8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia1/sec2/sec2/zad7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad1.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad3.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad4.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad2.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia2/zad3.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia2/zad4.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia2/zad1.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia2/zad2.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia2/zad5.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia2/zadania_zaj2/zad6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad1.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad2.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad3.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad4.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad5.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad6.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad7.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/zad8.py" />
+    <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zad2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/zadania_zaj3/zadsec3and4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/hot_cold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia3/rock_paper_scissors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zadX.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad1and2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_listy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia4/zadania_zaj4/zad_slowniki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
