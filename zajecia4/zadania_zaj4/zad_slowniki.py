@@ -41,17 +41,7 @@ for j in tab:
 
 """
 
-"""
-lista1 = range(1, 11)
-lista2 = range(1, 11)
-wynik = []
-for i in lista1:
-    for j in lista2:
-        a = i * j
-        wynik = wynik.append(a)
-print(wynik)
-POPRAWIĆ!!!
-"""
+
 
 
 
