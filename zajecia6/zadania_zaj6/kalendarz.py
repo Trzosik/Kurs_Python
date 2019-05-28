@@ -14,15 +14,7 @@ month_tuple_data = [
     ('November', range(30)),
     ('December', range(31)),
       ]
-"""
-def stworz_miesiac():
-    for i in month_tuple_data:
-        miesiac_name = i[0]
-        dni = i[1]
-        miesiac = [miesiac_name, dni]
-        lista_miesiecy = []
-        lista_miesiecy.append(miesiac)
-"""
+
 
 def czy_dzien_dwucyfrowy(dzien):
     if dzien < 10:
