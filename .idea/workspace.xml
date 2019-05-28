@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5344da90-e27f-4e53-8358-a310de402d82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackaton1/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/adrian.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackaton1/hackaton_1/hangmancopy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zajecia6/zadania_zaj6/kalendarz.py" beforeDir="false" afterPath="$PROJECT_DIR$/zajecia6/zadania_zaj6/kalendarz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackaton1/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackaton1/hangman.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hackaton1/hangman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="10" column="39" selection-end-line="123" />
             </state>
           </provider>
         </entry>
@@ -38,8 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/skill.py" />
-        <option value="$PROJECT_DIR$/weeks.py" />
         <option value="$PROJECT_DIR$/bmi.py" />
         <option value="$PROJECT_DIR$/BMI2.py" />
         <option value="$PROJECT_DIR$/zadanie1.py" />
@@ -88,11 +88,13 @@
         <option value="$PROJECT_DIR$/hackaton1/new.py" />
         <option value="$PROJECT_DIR$/hackaton1/eq_scout.py" />
         <option value="$PROJECT_DIR$/hackaton1/hackaton_1/hangman.py" />
+        <option value="$PROJECT_DIR$/hackaton1/hackaton_1/hangmancopy.py" />
+        <option value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py" />
         <option value="$PROJECT_DIR$/hackaton1/hangman.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="42" />
     <option name="width" value="1047" />
@@ -120,13 +122,15 @@
             <path>
               <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kurs_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecia5" type="462c0819:PsiDirectoryNode" />
+              <item name="hackaton1" type="462c0819:PsiDirectoryNode" />
+              <item name="hackaton_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kurs_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecia5" type="462c0819:PsiDirectoryNode" />
-              <item name="zadania_zaj5" type="462c0819:PsiDirectoryNode" />
+              <item name="hackaton1" type="462c0819:PsiDirectoryNode" />
+              <item name="hackaton_1" type="462c0819:PsiDirectoryNode" />
+              <item name="hackaton_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kurs_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -221,6 +225,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hangmancopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackaton1/hackaton_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackaton1/hackaton_1/hangmancopy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hangmancopy2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="kalendarz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kurs_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,48 +280,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia6/zadania_zaj6/kalendarz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kurs_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia5/zadania_zaj5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia5/zadania_zaj5/tmp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zad3_funkcje2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kurs_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia5/zadania_zaj5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia5/zadania_zaj5/zad3_funkcje2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,19 +311,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.zad4" />
-      <item itemvalue="Python.zad3_funkcje2" />
-      <item itemvalue="Python.tmp" />
       <item itemvalue="Python.kalendarz" />
       <item itemvalue="Python.eq_scout" />
       <item itemvalue="Python.hangman" />
+      <item itemvalue="Python.hangmancopy" />
+      <item itemvalue="Python.hangmancopy2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.hangman" />
+        <item itemvalue="Python.hangmancopy2" />
+        <item itemvalue="Python.hangmancopy" />
         <item itemvalue="Python.eq_scout" />
         <item itemvalue="Python.kalendarz" />
-        <item itemvalue="Python.tmp" />
-        <item itemvalue="Python.zad3_funkcje2" />
       </list>
     </recent_temporary>
   </component>
@@ -346,14 +350,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="42" width="1047" height="1034" extended-state="0" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22577423" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12506917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4997233" visible="true" weight="0.34545454" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997233" weight="0.23418424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,8 +396,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad4.py" />
-    <entry file="file://$PROJECT_DIR$/zajecia1/domowe/zad2.py" />
     <entry file="file://$PROJECT_DIR$/zajecia2/zad3.py" />
     <entry file="file://$PROJECT_DIR$/zajecia2/zad4.py" />
     <entry file="file://$PROJECT_DIR$/zajecia2/zad1.py" />
@@ -572,10 +575,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hackaton1/hackaton_1/hangmancopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="52" column="36" selection-end-line="79" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="123" lean-forward="true" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hackaton1/hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-end-line="123" />
         </state>
       </provider>
     </entry>
