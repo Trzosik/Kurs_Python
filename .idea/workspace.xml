@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5344da90-e27f-4e53-8358-a310de402d82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" beforeDir="false" afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +14,20 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -83,8 +94,8 @@
         <option value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py" />
         <option value="$PROJECT_DIR$/hackaton1/hangman.py" />
         <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/zad1.py" />
-        <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" />
         <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" />
+        <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" />
       </list>
     </option>
   </component>
@@ -148,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.losuj_cytat">
+  <component name="RunManager" selected="Python.checking_cards">
     <configuration name="Hangman_by_Adrian_Trzoss" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kurs_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,6 +202,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="checking_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kurs_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia7/zadania_zaj7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kurs_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,27 +236,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackaton1/hangman.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hangmancopy2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kurs_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,18 +310,18 @@
     <list>
       <item itemvalue="Python.zad4" />
       <item itemvalue="Python.hangman" />
-      <item itemvalue="Python.hangmancopy2" />
       <item itemvalue="Python.Hangman_by_Adrian_Trzoss" />
       <item itemvalue="Python.zad1" />
       <item itemvalue="Python.losuj_cytat" />
+      <item itemvalue="Python.checking_cards" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.checking_cards" />
         <item itemvalue="Python.losuj_cytat" />
         <item itemvalue="Python.zad1" />
         <item itemvalue="Python.Hangman_by_Adrian_Trzoss" />
         <item itemvalue="Python.hangman" />
-        <item itemvalue="Python.hangmancopy2" />
       </list>
     </recent_temporary>
   </component>
@@ -340,17 +351,17 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12728278" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12728278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4997233" visible="true" weight="0.33851278" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997233" visible="true" weight="0.33851278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32852387" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32852387" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002767" side_tool="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32937366" />
@@ -383,11 +394,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zajecia3/zad1.py" />
-    <entry file="file://$PROJECT_DIR$/zajecia3/zad2.py" />
     <entry file="file://$PROJECT_DIR$/zajecia3/zad3.py" />
     <entry file="file://$PROJECT_DIR$/zajecia3/zad4.py" />
     <entry file="file://$PROJECT_DIR$/zajecia3/zad5.py" />
@@ -492,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zajecia5/zadania_zaj5/zad4_funkcje3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zajecia5/zadania_zaj5/zad3_funkcje2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -564,6 +563,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia5/zadania_zaj5/zad4_funkcje3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -571,8 +577,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py">
+    <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/visa.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/american.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/mastercard.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
