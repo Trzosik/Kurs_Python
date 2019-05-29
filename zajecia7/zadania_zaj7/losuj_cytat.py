@@ -17,3 +17,19 @@ def quote_choice():
 
 
 quote_choice()
+
+
+def quote_choice2():
+    lines = open_txt(txt='cytaty.txt')
+    quotes = []
+    for i in range(3):
+        generate_quote = random.choice(lines)
+        quotes.append(generate_quote)
+    print('Quote for today:\n')
+    for i in quotes:
+        print('*' * len(i))
+        print(i.upper())
+        print('*' * len(i))
+
+
+quote_choice2()

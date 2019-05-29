@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5344da90-e27f-4e53-8358-a310de402d82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hackaton1_projects/Hangman_readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" beforeDir="false" afterPath="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,26 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/zad1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/cytaty.txt">
+        <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -53,7 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zadanie1.py" />
         <option value="$PROJECT_DIR$/zajecia1/domowe/zad1.py" />
         <option value="$PROJECT_DIR$/zajecia1/domowe/zad2.py" />
         <option value="$PROJECT_DIR$/zajecia1/domowe/zad3.py" />
@@ -103,6 +83,7 @@
         <option value="$PROJECT_DIR$/hackaton1/hackaton_1/hackaton_1/hangmancopy2.py" />
         <option value="$PROJECT_DIR$/hackaton1/hangman.py" />
         <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/zad1.py" />
+        <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py" />
         <option value="$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py" />
       </list>
     </option>
@@ -402,9 +383,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/zajecia3/sec4/zad2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -588,10 +566,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/losuj_cytat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="484">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajecia7/zadania_zaj7/checking_cards.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
