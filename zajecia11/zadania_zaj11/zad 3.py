@@ -19,11 +19,9 @@ class FIFO:
     def put_element_into(self):
         element = input('Podaj element')
         self.kolejka.append(element)
-        # return self
 
     def delete_element_from(self):
         self.kolejka.pop(0)
-        # return self.kolejka.pop(0)
 
 
 random_kolejka = FIFO(['a', 'b', 'c'])
