@@ -1,39 +1,37 @@
-"""3▹ Stwórz własną implementację kolejki FIFO. Klasa Kolejka powinna na starcie przyjmować listę elementów.
-Wśród metod powinny się znaleźć takie jak: wyswietlenie kolejki, sprawdzenie czy jest pusta, dodanie elementu do kolejki (put),
-wyjęcie elementu z kolejki (get).
-
-Utwórz kilka obiektów klasyz różnymi parametrami.
+"""
+FIFO Queue implementation. Class FIFO has atribute list; shows list, add to and pop from the list.
 """
 
 
 class FIFO:
-    def __init__(self, lista_kolejkowa):
-        self.lista_kolejkowa = lista_kolejkowa
+    def __init__(self, kolejka):
+        self.kolejka = kolejka
 
-    def show_lista_kolejkowa(self):
-        print(self.lista_kolejkowa)
-#
-#     def check_if_lista_void(self):
-#         if not self.lista_kolejkowa:
-#             print('Lista jest pusta')
-#
-#     def put_element_into(self):
-#         element = input('Podaj element')
-#         self.lista_kolejkowa = self.lista_kolejkowa.append(element)
-#         return self
+    def show_kolejka(self):
+        print(*self.kolejka)
 
-    def get_element_from(self):
-        return self.lista_kolejkowa.pop(0)
+    def check_if_lista_empty(self):
+        if not self.kolejka:
+            print('Lista jest pusta')
+        else:
+            print('Lista istnieje')
+
+    def put_element_into(self):
+        element = input('Podaj element')
+        self.kolejka.append(element)
+        # return self
+
+    def delete_element_from(self):
+        self.kolejka.pop(0)
+        # return self.kolejka.pop(0)
 
 
-random1 = FIFO(['a', 'b', 'c'])
+random_kolejka = FIFO(['a', 'b', 'c'])
 
-print(random1)
+random_kolejka.check_if_lista_empty()
 
-# random1.show_lista_kolejkowa()
-#
-# random1.put_element_into()
+random_kolejka.put_element_into()
 
-random1.get_element_from()
+random_kolejka.delete_element_from()
 
-random1.show_lista_kolejkowa()
+random_kolejka.show_kolejka()
