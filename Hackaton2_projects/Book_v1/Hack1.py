@@ -52,6 +52,19 @@ def length(phone_book):
     print(length_phone_book)
 
 
+def find_wpis(phone_book):
+    check_imie = input('Podaj imie')
+    print(check_imie)
+    for i in range(len(phone_book)):
+        if check_imie in phone_book[i].values():
+            print(phone_book[i])
+    # want_to_edit = input('Do you want to edit? y/n')
+    # if want_to_edit == 'y':
+    #
+    # else:
+    #     return None
+
+
 def main():
     phone_book = []
     while True:
@@ -61,6 +74,7 @@ def main():
         print('Press 4:', 'to Create_new_wpis')
         print('Press 5:', 'to check Length')
         print('Press 6:', 'to print Phone_book')
+        print('Press 7:', 'to find wpis')
         print('Press 0:', 'to Exit')
         press = int(input('Press the button'))
         if press == 1:
@@ -74,9 +88,15 @@ def main():
         elif press == 5:
             length(phone_book)
         elif press == 6:
-            for i in phone_book:
-                print(i)
+            for i in range(len(phone_book)):
+                print([i])
+                for key, value in phone_book[i].items():
+                    print('{} : {}'.format(key, value))
+                print()
+        elif press == 7:
+            find_wpis(phone_book)
         elif press == 0:
+            print("It's the little differences...")
             break
         else:
             print("Nonavailable")
