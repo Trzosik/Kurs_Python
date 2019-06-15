@@ -16,3 +16,5 @@ Jamnik_Stefan = Dog('Stefan', 'White', 'Jamnik', 'Hauuuuu')
 
 Jamnik_Stefan.bark()
 Jamnik_Stefan.wave()
+
+print(Jamnik_Stefan)
